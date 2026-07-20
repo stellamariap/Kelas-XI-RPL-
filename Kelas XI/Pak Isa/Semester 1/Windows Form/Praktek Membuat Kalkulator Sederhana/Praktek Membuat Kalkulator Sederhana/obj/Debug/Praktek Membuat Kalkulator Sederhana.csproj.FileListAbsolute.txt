@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\bin\Debug\Praktek Membuat Kalkulator Sederhana.exe.config
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\bin\Debug\Praktek Membuat Kalkulator Sederhana.exe
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\bin\Debug\Praktek Membuat Kalkulator Sederhana.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek Membuat Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek_Membuat_Kalkulator_Sederhana.Form1.resources
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek_Membuat_Kalkulator_Sederhana.Properties.Resources.resources
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek Membuat Kalkulator Sederhana.csproj.GenerateResource.cache
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek Membuat Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek Membuat Kalkulator Sederhana.exe
+C:\Users\ThinkPad\OneDrive\Desktop\Kelas XI\Pak Isa\Semester 1\Windows Form\Praktek Membuat Kalkulator Sederhana\Praktek Membuat Kalkulator Sederhana\obj\Debug\Praktek Membuat Kalkulator Sederhana.pdb
