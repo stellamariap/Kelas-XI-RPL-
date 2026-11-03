@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|c:\\my-workspace\\business\\github\\stella\\kelas-xi-rpl-\\kelas xi\\pak isa\\semester 1\\windowsforms\\contohsoal\\contohsoal\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form2register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form2register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\contohsoal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A877D4C9-70DC-4C54-A794-CE9B5E641C8B}|ContohSoal\\ContohSoal.csproj|solutionrelative:contohsoal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form9CustomerMain.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form9CustomerMain.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form9CustomerMain.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form9CustomerMain.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form9CustomerMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:24:12.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form11BeliTiket.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form11BeliTiket.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form11BeliTiket.cs",
+              "RelativeToolTip": "ContohSoal\\Form11BeliTiket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:24:04.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form6JadwalPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form6JadwalPenerbangan.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form6JadwalPenerbangan.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form6JadwalPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:13:58.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6JadwalPenerbangan.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form6JadwalPenerbangan.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form6JadwalPenerbangan.cs",
+              "RelativeToolTip": "ContohSoal\\Form6JadwalPenerbangan.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwIIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:13:45.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form12TiketSaya.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form12TiketSaya.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form12TiketSaya.cs",
+              "RelativeToolTip": "ContohSoal\\Form12TiketSaya.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:09:53.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form12TiketSaya.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form12TiketSaya.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form12TiketSaya.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form12TiketSaya.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:09:50.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form7KodePromo.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form7KodePromo.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form7KodePromo.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form7KodePromo.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form7KodePromo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:35:22.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3Dashboard.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form3Dashboard.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form3Dashboard.cs",
+              "RelativeToolTip": "ContohSoal\\Form3Dashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvzsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:03:40.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form7KodePromo.Designer.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form7KodePromo.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form7KodePromo.Designer.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form7KodePromo.Designer.cs",
+              "RelativeToolTip": "ContohSoal\\Form7KodePromo.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwFoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T05:17:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Program.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Program.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Program.cs",
+              "RelativeToolTip": "ContohSoal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T05:14:24.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2Register.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form2Register.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form2Register.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form2Register.cs",
+              "RelativeToolTip": "ContohSoal\\Form2Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:20:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form3Dashboard.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form3Dashboard.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form3Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:11:56.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2Register.Designer.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form2Register.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form2Register.Designer.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form2Register.Designer.cs",
+              "RelativeToolTip": "ContohSoal\\Form2Register.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:07:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2Register.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form2Register.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form2Register.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form2Register.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form2Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:07:24.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form1.Designer.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form1.Designer.cs",
+              "RelativeToolTip": "ContohSoal\\Form1.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAMwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:05:35.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form1.cs",
+              "RelativeDocumentMoniker": "ContohSoal\\Form1.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\stella\\Kelas-XI-RPL-\\Kelas XI\\Pak Isa\\Semester 1\\WindowsForms\\ContohSoal\\ContohSoal\\Form1.cs [Design]",
+              "RelativeToolTip": "ContohSoal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:04:32.594Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
